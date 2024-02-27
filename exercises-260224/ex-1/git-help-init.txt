@@ -160,3 +160,5 @@ Git 2.33.0                         08/16/2021                        GIT-INIT(1)
 new line
 =======
 >>>>>>> 9bf8930eee0e5909cc7d119e533e0f8ec02dafe4
+
+second line
