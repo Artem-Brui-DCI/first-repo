@@ -1,0 +1,85 @@
+commit 6d07838e8e9e32f1cdccec9b40ded27ab9f615f0
+Author: Artem-Brui-DCI <artem.brui@dci-student.org>
+Date:   Tue Feb 27 17:20:13 2024 +0100
+
+    made a few changes in readme.txt
+
+commit 31b26ed5241db7868130faaf234536b5dce0143a
+Author: Artem-Brui-DCI <artem.brui@dci-student.org>
+Date:   Tue Feb 27 17:14:49 2024 +0100
+
+    add ferst text to readme.txt
+
+commit 10abce5df263a847f592b18fcd3c3de1d8628808
+Merge: a8435e5 8e94ef4
+Author: Artem-Brui-DCI <artem.brui@dci-student.org>
+Date:   Tue Feb 27 17:07:43 2024 +0100
+
+    Made EX-1 26.02
+
+commit a8435e51f6de244cbbe95161dd8bf404cea35f40
+Author: Artem-Brui-DCI <artem.brui@dci-student.org>
+Date:   Tue Feb 27 17:02:55 2024 +0100
+
+    Made EX-1 26.02
+
+commit 79c4db5ead0dbdc93391cc12ffe4f354316fa3cf
+Author: Artem-Brui-DCI <artem.brui@dci-student.org>
+Date:   Tue Feb 27 16:58:24 2024 +0100
+
+    Made EX-1 26.02
+
+commit 8e94ef4c46227b3d90800678b8b12160ad31a322
+Author: Artem Brui DCI <161329145+Artem-Brui-DCI@users.noreply.github.com>
+Date:   Tue Feb 27 16:56:07 2024 +0100
+
+    Delete exercises-260224 directory
+
+commit e61f05eaffc856fedd830099bf2bc082d72bf850
+Author: Artem-Brui-DCI <artem.brui@dci-student.org>
+Date:   Tue Feb 27 16:51:44 2024 +0100
+
+    created dir Exercises
+
+commit 5c898b1f34e2765f5789286c51af23f9568450ab
+Author: Artem-Brui-DCI <artem.brui@dci-student.org>
+Date:   Tue Feb 27 16:45:59 2024 +0100
+
+    Made EX-1 26.02
+
+commit f3b12a4574392bd95c53722b6a9e665a13995722
+Merge: f511f53 9bf8930
+Author: Artem-Brui-DCI <artem.brui@dci-student.org>
+Date:   Tue Feb 27 16:43:28 2024 +0100
+
+    new commit
+
+commit f511f53b4f0bf89ca06accfc853c6f2c751da596
+Author: Artem-Brui-DCI <artem.brui@dci-student.org>
+Date:   Tue Feb 27 16:34:46 2024 +0100
+
+    26.02 made Ex-1
+
+commit 50ae610405b532d1e800429d3b0c5d3e158656c8
+Author: Artem-Brui-DCI <artem.brui@dci-student.org>
+Date:   Tue Feb 27 16:25:22 2024 +0100
+
+    Made EX-1 26.02
+
+commit 9bf8930eee0e5909cc7d119e533e0f8ec02dafe4
+Author: Artem-Brui-DCI <artem.brui@dci-student.org>
+Date:   Tue Feb 27 16:25:22 2024 +0100
+
+    made EX-1
+
+commit e247329c4b944038298d28e7d863bde01173c816
+Author: Artem-Brui-DCI <artem.brui@dci-student.org>
+Date:   Tue Feb 27 16:12:59 2024 +0100
+
+    add some text
+
+commit 78042f8370773045daddca4f4b48c255e781f703
+Author: Artem Brui DCI <161329145+Artem-Brui-DCI@users.noreply.github.com>
+Date:   Tue Feb 27 15:58:30 2024 +0100
+
+    Initial commit
