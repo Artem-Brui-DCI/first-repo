@@ -3,5 +3,6 @@
 - Artem, 35 y.o.
 - Blue
 - Origin
-- Restaurants which cook meet
-  
+- Those ones who cooks stakes
+
+
